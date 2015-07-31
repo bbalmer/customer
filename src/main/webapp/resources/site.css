@@ -1,0 +1,10 @@
+.navbar-brand {
+	display: inline-block;
+	background-image: url("stars.png") ;
+	width: 250px;
+	background-size: 155px 50px;
+}
+
+.clickable-row {
+	cursor: pointer;
+}
